@@ -16,13 +16,13 @@
     <maven.compiler.source>1.8</maven.compiler.source>
 
     <!-- quarkus related -->
-    <quarkus.version>999-SNAPSHOT</quarkus.version>
+    <quarkus.version>0.25.0</quarkus.version>
     <!-- springboot related -->
     <springboot.version>2.1.1.RELEASE</springboot.version>
     <cxf.version>3.2.6</cxf.version>
     <javax.activation.version>1.1.1</javax.activation.version>
     <!-- kogito -->
-    <kogito.version>8.0.0-SNAPSHOT</kogito.version>
+    <kogito.version>0.5.0</kogito.version>
 
     <!-- infinispan -->
     <infinispan.version>2.1.7.Final</infinispan.version>
