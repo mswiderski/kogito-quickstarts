@@ -85,6 +85,13 @@ shows timers (intermediate and boundary) that allows to introduce delays in proc
 * [on Quarkus](kogito-timer-quarkus)
 * [on SpringBoot](kogito-timer-springboot)
 
+## Kogito with user tasks and prediction service
+
+user tasks combined with prediction service (machine learning backed by SMILE project) that allows automate human centric workflows
+
+* [on Quarkus](kogito-usertasks-with-predictions-quarkus)
+* [on SpringBoot](kogito-usertasks-with-predictions-springboot)
+
 ## Contribution
 
 Everyone is encouraged to contribute to this quickstarts by

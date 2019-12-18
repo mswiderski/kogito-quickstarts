@@ -51,5 +51,7 @@
     <module>kogito-usertasks-with-security-springboot</module>
     <module>kogito-timer-quarkus</module>
     <module>kogito-timer-springboot</module>
+ <!--    <module>kogito-usertasks-with-predictions-quarkus</module>
+    <module>kogito-usertasks-with-predictions-springboot</module> -->
   </modules>
 </project>
