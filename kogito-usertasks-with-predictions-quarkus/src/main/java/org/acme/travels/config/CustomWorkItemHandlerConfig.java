@@ -34,7 +34,7 @@ public class CustomWorkItemHandlerConfig extends DefaultWorkItemHandlerConfig {{
         configuration.setInputFeatures(inputFeatures);
     
         configuration.setOutcomeName("approved");
-        configuration.setOutcomeType(AttributeType.NOMINAL);
+        configuration.setOutcomeType(AttributeType.BOOLEAN);
         configuration.setConfidenceThreshold(0.7);
         configuration.setNumTrees(100);
     
