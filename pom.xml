@@ -53,5 +53,7 @@
     <module>kogito-timer-springboot</module>
     <module>kogito-usertasks-with-predictions-quarkus</module>
     <module>kogito-usertasks-with-predictions-springboot</module>
+    <module>kogito-service-camel-quarkus</module>
+    <module>kogito-service-camel-springboot</module>
   </modules>
 </project>

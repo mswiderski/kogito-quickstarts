@@ -92,6 +92,14 @@ user tasks combined with prediction service (machine learning backed by SMILE pr
 * [on Quarkus](kogito-usertasks-with-predictions-quarkus)
 * [on SpringBoot](kogito-usertasks-with-predictions-springboot)
 
+## Kogito with Apache Camel
+
+shows use of Apache Camel as the backend of service task to allow any kind of integration being done with numerous components of 
+Apache Camel
+
+* [on Quarkus](kogito-service-camel-quarkus)
+* [on SpringBoot](kogito-service-camel-springboot)
+
 ## Contribution
 
 Everyone is encouraged to contribute to this quickstarts by
