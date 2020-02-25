@@ -100,6 +100,15 @@ Apache Camel
 * [on Quarkus](kogito-service-camel-quarkus)
 * [on SpringBoot](kogito-service-camel-springboot)
 
+## Kogito with Validation API
+
+shows use of Validation API with combination of Kogito generated REST api. Allows to annotate with validation constraints 
+data model which will then be enforced on the REST api level
+
+* [on Quarkus](kogito-validation-quarkus)
+* [on SpringBoot](kogito-validation-springboot)
+
+
 ## Contribution
 
 Everyone is encouraged to contribute to this quickstarts by
